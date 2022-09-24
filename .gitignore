@@ -31,6 +31,7 @@ MANIFEST
 config.py
 random_numbers.ipynb
 API_practice.ipynb
+Google_Nearby_Search.ipynb
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
